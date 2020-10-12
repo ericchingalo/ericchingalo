@@ -26,9 +26,9 @@
 </tr>
 </table>
 
-# Stay in touch 📫
+# Stay in touch 💬
 
-- [Twitter](https://twitter.com/ericchingalo)
-- [LinkedIn](https://www.linkedin.com/in/eric-chingalo-711630185/)
-- [Instagram](https://www.instagram.com/ericchingalo/)
-- [Email](mailto:echingalo@gmail.com)
+- 🐦 [twitter](https://twitter.com/ericchingalo)
+- 👔 [LinkedIn](https://www.linkedin.com/in/eric-chingalo-711630185/)
+- 📷 [Instagram](https://www.instagram.com/ericchingalo/)
+- 📫 [Email](mailto:echingalo@gmail.com)
