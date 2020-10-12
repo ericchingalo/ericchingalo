@@ -7,18 +7,16 @@
 - 🤔 I’m looking for help with anything concerning programming.
 - ⚡ Fun fact: <strong>I tend to be more active on thursdays</strong>
 
-## My github stats:
+# My github stats:
 
-<hr>
-
-<table> 
+<table style="border: none; border-collapse: collapse;"> 
 <tr>
-<td>
+<td style="border: none">
 
 ![Just for showoff(GitHub stats)](https://github-readme-stats.vercel.app/api?username=chingaloEric&show_icons=true&theme=blueberry&count_private=true&hide_rank=false)
 
 </td>
-<td>
+<td style="border: none">
 
 ![Top_langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chingaloEric&langs_count=6&theme=blueberry)
 
