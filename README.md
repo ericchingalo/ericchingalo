@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi there 👋, this is Megamind
 
-<!--
-**chingaloEric/chingaloEric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on multiple projects using <strong>Typescript</strong>
+- 🌱 I’m currently learning <strong>Dart</strong> and <strong>Flutter</strong>
+- 🤔 I’m looking for help with anything concerning programming.
+- ⚡ Fun fact: <strong>I tend to be more active on thursdays</strong>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+## My github stats:
+
+<table> 
+<tr>
+<td>
+
+![Just for showoff(GitHub stats)](https://github-readme-stats.vercel.app/api?username=chingaloEric&show_icons=true&theme=blueberry&count_private=true&hide_rank=false)
+
+</td>
+<td>
+
+![Top_langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chingaloEric&langs_count=6&theme=blueberry)
+
+</td>
+</tr>
+</table>
+ <hr>
