@@ -9,20 +9,12 @@
 
 # My github stats:
 
-<table style="border: none; border-collapse: collapse;"> 
-<tr>
-<td style="border: none">
-
 ![Just for showoff(GitHub stats)](https://github-readme-stats.vercel.app/api?username=chingaloEric&show_icons=true&theme=blueberry&count_private=true&hide_rank=false)
 
-</td>
-<td style="border: none">
+<br>
 
 ![Top_langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chingaloEric&langs_count=6&theme=blueberry)
 
-</td>
-</tr>
-</table>
 
 # Stay in touch 💬
 
