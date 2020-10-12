@@ -7,9 +7,9 @@
 - 🤔 I’m looking for help with anything concerning programming.
 - ⚡ Fun fact: <strong>I tend to be more active on thursdays</strong>
 
-<hr>
-
 ## My github stats:
+
+<hr>
 
 <table> 
 <tr>
@@ -25,4 +25,10 @@
 </td>
 </tr>
 </table>
- <hr>
+
+# Stay in touch 📫
+
+- [Twitter](https://twitter.com/ericchingalo)
+- [LinkedIn](https://www.linkedin.com/in/eric-chingalo-711630185/)
+- [Instagram](https://www.instagram.com/ericchingalo/)
+- [Email](mailto:echingalo@gmail.com)
