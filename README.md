@@ -1,9 +1,9 @@
 ### Hi there 👋, this is Megamind
 
 <hr>
-
-- 🔭 I’m currently working on multiple projects using <strong>Typescript</strong>
-- 🌱 I’m currently learning <strong>Dart</strong> and <strong>Flutter</strong>
+ 
+- 🔭 I’m currently working on multiple projects using [Typescript](https://www.typescriptlang.org/)
+- 🌱 I’m currently learning [Dart](https://dart.dev/) and [Flutter](https://flutter.dev/)
 - 🤔 I’m looking for help with anything concerning programming.
 - ⚡ Fun fact: <strong>I tend to be more active on thursdays</strong>
 
