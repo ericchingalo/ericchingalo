@@ -2,10 +2,9 @@
 
 <hr>
  
-- 🔭 I’m currently working on multiple projects using [Typescript](https://www.typescriptlang.org/)
-- 🌱 I’m currently learning [Dart](https://dart.dev/) and [Flutter](https://flutter.dev/)
-- 🤔 I’m looking for help with anything concerning programming.
-- ⚡ Fun fact: <strong>I tend to be more active on thursdays</strong>
+- 🔭 I’m currently working on multiple projects using [Typescript](https://www.typescriptlang.org/).
+- 🌱 I’m currently learning [Dart](https://dart.dev/) and [Flutter](https://flutter.dev/).
+- ⚡ Fun fact: <strong>I tend to be more active on thursdays</strong>.
 
 # My github stats:
 
