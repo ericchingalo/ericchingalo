@@ -13,8 +13,7 @@
 <br>
 
 # Trophies
-
-![Random trophies(GitHub stats)](https://github-readme-stats.vercel.app/api?username=angeloem&show_icons=true&theme=radical&count_private=true&hide_rank=false)
+[![trophy](https://github-profile-trophy.vercel.app/?username=chingaloEric)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
 
