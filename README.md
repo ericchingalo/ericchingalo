@@ -12,6 +12,12 @@
 
 <br>
 
+# Trophies
+
+![Random trophies(GitHub stats)](https://github-readme-stats.vercel.app/api?username=angeloem&show_icons=true&theme=radical&count_private=true&hide_rank=false)
+
+<br>
+
 ![Top_langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chingaloEric&langs_count=6&theme=blueberry)
 
 
