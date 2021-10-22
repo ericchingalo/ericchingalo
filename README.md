@@ -1,5 +1,5 @@
  ### Hi there 👋, this is Eric Chingalo
-- 🔭 I’m currently working using [Typescript](https://www.typescriptlang.org/) and [Dart](https://dart.dev/).
+- 🔭 I’m currently using [Typescript](https://www.typescriptlang.org/) and [Dart](https://dart.dev/).
 - 🌱 I’m currently learning UI/UX Design with FIGMA.
 - ⚡ Fun fact: <strong>I tend to be more active on thursdays</strong>.
 
