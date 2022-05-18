@@ -11,7 +11,5 @@
 
 <hr>
 
-![Just for showoff(GitHub stats)](https://github-readme-stats.vercel.app/api?username=ericchingalo&show_icons=true&count_private=true&hide_rank=false)
-
 
 
