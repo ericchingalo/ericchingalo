@@ -12,8 +12,8 @@ I’m a Tanzanian **software developer** passionate about building clean, user-c
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ericchingalo&show_icons=true&hide_title=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericchingalo&layout=compact" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ericchingalo&show_icons=true&hide_title=true&theme=transparent" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericchingalo&layout=compact&theme=transparent" height="160" />
 </p>
 
 ---
