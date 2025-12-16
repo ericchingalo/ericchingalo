@@ -26,6 +26,6 @@ I’m a Tanzanian **software developer** passionate about building clean, user-c
 
 ---
 
-<sub>✨ Always curious. Always building. Always improving.</sub>
+<sub>pray🙏🏾 code👨🏾‍💻 love😍 live🤩.</sub>
 
 <hr/>
