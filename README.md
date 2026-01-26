@@ -2,7 +2,7 @@
 
 I’m a Tanzanian **software developer** passionate about building clean, user-centered digital solutions that make a real impact. I work extensively with **DHIS2**, designing and developing custom apps and systems that support better decision-making in health and other sectors.
 
-- 💻 Currently building with **TypeScript**, **React**, **Flutter**, and **Dart**.
+- 💻 Currently building with **TypeScript**, **React**, **Dart**, **Flutter**, and **Kotlin**.
 - 🧠 Strong focus on **DHIS2 implementation** and Designing systems for data use.
 - 🎨 Exploring **UI/UX design & research**.
 - 🌍 Interested in digital health, open-source tools, and technology.
