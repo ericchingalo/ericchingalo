@@ -81,7 +81,7 @@ I enjoy transforming complex workflows into intuitive digital products that impr
 ## Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,flask,firebase" />
 </p>
 
 ## Databases
@@ -99,7 +99,7 @@ I enjoy transforming complex workflows into intuitive digital products that impr
 ## Design
 
 <p>
-<img src="https://skillicons.dev/icons?i=figma,photoshop" />
+<img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
 ---
@@ -118,10 +118,10 @@ DHIS2 Development
 System Architecture
 ███████████████████░ 95%
 
-Frontend Development
+Web Apps Development
 ██████████████████░░ 90%
 
-Mobile Development
+Mobile Apps Development
 ██████████████████░░ 90%
 
 UI/UX Design
