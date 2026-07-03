@@ -44,7 +44,7 @@ I enjoy transforming complex workflows into intuitive digital products that impr
 
 ## 🏆 Highlights
 
-- 🥇 **Winner — DHIS2 App Competition 2023**
+- 🥇 **[Winner — DHIS2 App Competition 2023](https://developers.dhis2.org/blog/2023/06/app-competition-results/)**
   - Built **DHIS2 Analytics Messenger**, a platform that delivers DHIS2 analytics through WhatsApp and Telegram.
 - 🌍 Building Digital Health solutions used in real-world healthcare programs.
 - 🤖 Developing AI-powered assistants and intelligent automation tools.
