@@ -160,23 +160,6 @@ Artificial Intelligence
 - 🔌 Integrations
 - 🧩 Developer Tools
 
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ericchingalo&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericchingalo&layout=compact&theme=transparent&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ericchingalo&theme=transparent&hide_border=true"/>
-
-</p>
 
 ---
 
