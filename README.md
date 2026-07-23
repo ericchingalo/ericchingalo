@@ -7,7 +7,7 @@
 Software Engineer • Systems Architect • AI Engineer • DHIS2 Developer • UI/UX Designer
 
 <p>
-  <a href="https://linkedin.com/in/ericchingalo">
+  <a href="https://linkedin.com/in/eric-chingalo">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/ericchingalo">
@@ -189,7 +189,7 @@ I'm always interested in collaborating on:
 ### 📫 Let's Connect
 
 <p>
-<a href="https://linkedin.com/in/ericchingalo">
+<a href="https://linkedin.com/in/eric-chingalo">
 <img src="https://img.shields.io/badge/LinkedIn-1565C0?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
